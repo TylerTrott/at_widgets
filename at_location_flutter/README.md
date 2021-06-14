@@ -12,7 +12,7 @@ This plugin can be added to the project as git dependency in pubspec.yaml
 
 ```
 dependencies:
-  at_location_flutter: ^0.0.3
+  at_location_flutter: ^1.0.3
 ```
 
 ### Sample usage
